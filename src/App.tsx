@@ -2,6 +2,7 @@ import Cart from "./Cart"
 import Nav from "./Nav"
 import Cities from "./Cities"
 import Message from "./Message"
+import Like from "./Like"
 
 
 const App = () => {
