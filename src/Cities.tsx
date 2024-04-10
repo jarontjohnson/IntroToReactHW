@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import "./Cities.css"
+// import "./Cities."
 
 interface IProps {
     myCities: string[],

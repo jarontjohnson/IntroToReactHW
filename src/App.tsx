@@ -19,7 +19,8 @@ const App = () => {
       <Cities myCities={cities} jay={student}/>
       <Nav/>
       <Cart/>
-      <Message myCities={cities}/>
+      <Message/>
+      <Like/>
     </>
   )
 }
